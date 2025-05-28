@@ -1,2 +1,6 @@
 /.idea/
 /.mvn/
+/src/test/java/resources/PROD.apk
+/src/test/java/resources/QA.apk
+/src/test/java/resources/UAT.apk
+/target
